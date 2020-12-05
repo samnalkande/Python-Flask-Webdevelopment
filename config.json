@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+   "local_sever":"True",
+    "local_uri": "mysql://root:@localhost/Python Flask Shortcuts",
+    "prod_uri": "mysql://root:@localhost/Python Flask Shortcuts",
+    "fb_url": "https://facebook.com/Python Flask Shortcuts",
+    "tw_url": "https://twitter.com/Python Flask Shortcuts",
+    "gh_url": "https://github.com/Python Flask Shortcuts",
+    "gmail-user": "************@gmail.com",
+    "gmail-password": "Password",
+    "blog_name": "Python Flask Shortcuts ",
+    "tag_line": "Web Development using Python Flask",
+    "about_text": "Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries. It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions.",
+    "no_of_posts": 3,
+    "login_image": "login.svg",
+    "admin_user": "sasmit",
+    "admin_password": "sasmit999",
+    "upload_location":  "C:\\Users\\hp\\PycharmProjects\\webdevflask\\static"
+
+
+  }
+}
